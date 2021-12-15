@@ -1,6 +1,6 @@
 # Getting Started with npm-package-explorer-TS
 
-Small project Allowing for npm package details to be fetched and displayed within a browser
+Small project allowing for npm package details to be fetched and displayed within a browser
 
 Created using REACT, Redux and Typescript
 
