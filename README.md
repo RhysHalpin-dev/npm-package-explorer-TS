@@ -1,8 +1,12 @@
-# Getting Started with Create React App
+# Getting Started with npm-package-explorer-TS
+
+Small project Allowing for npm package details to be fetched and displayed within a browser
+
+Created using REACT, Redux and Typescript
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## How to run project locally
 
 In the project directory, you can run:
 
